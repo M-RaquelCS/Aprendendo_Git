@@ -1,4 +1,4 @@
-# Aprendendo GIT
+# Aprendendo GIT no MouraTech
 
 ## Primeiros passos
 
